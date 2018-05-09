@@ -19,31 +19,32 @@ public class Ponto {
         this.z = z;
     }
     
-    public String getNome() {
+    protected String getNome() {
         return getClass().getSimpleName();
     }
 
-    public double getX() {
+    protected double getX() {
         return x;
     }
 
-    public void setX(double x) {
+    protected void setX(double x) {
         this.x = x;
     }
 
-    public double getY() {
+    protected double getY() {
         return y;
     }
 
-    public void setY(double y) {
+    
+    protected void setY(double y) {
         this.y = y;
     }
 
-    public double getZ() {
+    protected double getZ() {
         return z;
     }
 
-    public void setZ(double z) {
+    protected void setZ(double z) {
         this.z = z;
     }
     
