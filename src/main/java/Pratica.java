@@ -1,4 +1,5 @@
 
+import utfpr.ct.dainf.pratica.Ponto;
 import utfpr.ct.dainf.pratica.PontoXY;
 import utfpr.ct.dainf.pratica.PontoXZ;
 
